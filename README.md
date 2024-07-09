@@ -1,4 +1,4 @@
-# Java-Stack-with-Story-Book
+
 # output 
 ![Screenshot (74)](https://github.com/ChithmiDilaksha/Java-Stack-with-Story-Book/assets/148516815/aa8a0ddb-0708-4ab3-b672-fe2de23ffa23)
 ![Screenshot (75)](https://github.com/ChithmiDilaksha/Java-Stack-with-Story-Book/assets/148516815/361589f9-6943-4a45-946c-65ad39fe2dc8)
